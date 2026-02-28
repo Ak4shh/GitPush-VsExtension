@@ -1,6 +1,6 @@
 # Git Push Success Sound
 
-Plays a sound every time a `git push` succeeds in the VS Code integrated terminal.
+Plays a sound every time a `git push` succeeds in the VS Code integrated terminal. The sound effect is the *Assassin's Creed Valhalla* "Wealth Collected" cue.
 
 ---
 
