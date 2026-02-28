@@ -1,29 +1,29 @@
 {
-  "name": "git-push-success-sound",
-  "displayName": "Git Push Success Sound",
-  "description": "Plays a short sound when a git push command succeeds in the VS Code integrated terminal.",
-  "version": "0.0.1",
-  "publisher": "your-name",
-  "engines": {
-    "vscode": "^1.97.0"
-  },
-  "categories": [
-    "Other"
-  ],
-  "activationEvents": [
-    "onStartupFinished"
-  ],
-  "main": "./out/extension.js",
-  "scripts": {
-    "vscode:prepublish": "npm run compile",
-    "compile": "tsc -p ./",
-    "watch": "tsc -watch -p ./",
-    "pretest": "npm run compile",
-    "test": "echo \"No tests configured\""
-  },
-  "devDependencies": {
-    "@types/node": "^20.11.30",
-    "@types/vscode": "^1.97.0",
-    "typescript": "^5.4.5"
-  }
+	"name": "git-push-success-sound",
+	"displayName": "Git Push Success Sound",
+	"description": "Plays a short sound when a git push command succeeds in the VS Code integrated terminal.",
+	"version": "0.0.1",
+	"publisher": "Akash",
+	"engines": {
+		"vscode": "^1.97.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"main": "./out/extension.js",
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"pretest": "npm run compile",
+		"test": "echo \"No tests configured\""
+	},
+	"devDependencies": {
+		"@types/node": "^20.11.30",
+		"@types/vscode": "^1.97.0",
+		"typescript": "^5.4.5"
+	}
 }

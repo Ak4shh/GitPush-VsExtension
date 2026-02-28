@@ -6,7 +6,7 @@ Plays a sound every time a `git push` succeeds in the VS Code integrated termina
 
 ## Download & Install
 
-1. Go to the [Releases](../../releases) page
+1. Go to the **Releases** page on GitHub
 2. Download the latest `.vsix` file
 3. Open VS Code
 4. Press `Ctrl+Shift+P` → type **Install from VSIX** → select the downloaded file
